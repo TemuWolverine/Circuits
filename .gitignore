@@ -43,3 +43,4 @@ fp-info-cache
 circuit/EASYEDA_MODELS/
 circuit/**/*.csv
 **/production/
+SparkleBoard/EASYEDA_MODELS/
