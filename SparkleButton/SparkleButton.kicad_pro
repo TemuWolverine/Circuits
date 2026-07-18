@@ -503,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FlashyButton.kicad_pro",
+    "filename": "SparkleButton.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -671,8 +671,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "FlashyButton.kicad_sch",
-        "name": "Root",
+        "filename": "SparkleButton.kicad_sch",
+        "name": "SparkleButton",
         "uuid": "11f3237a-d825-4048-9f33-68fc7cf7d9c8"
       }
     ],
