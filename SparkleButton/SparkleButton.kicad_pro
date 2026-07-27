@@ -255,7 +255,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -682,7 +682,7 @@
   "sheets": [
     [
       "11f3237a-d825-4048-9f33-68fc7cf7d9c8",
-      "Root"
+      "SparkleButton"
     ]
   ],
   "text_variables": {},
